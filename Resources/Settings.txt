@@ -1,0 +1,2 @@
+music volume: 10;
+sfx volume: 20;
